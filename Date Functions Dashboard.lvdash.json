@@ -2,7 +2,7 @@
   "datasets": [
     {
       "name": "57d50b27",
-      "displayName": "Untitled dataset",
+      "displayName": "Customer Sales Insights with Date and Revenue Details",
       "queryLines": [
         "USE CATALOG `workspace`;\n",
         "USE SCHEMA `default`;\n",
